@@ -1,8 +1,6 @@
 # Movie-recommendation-system
 
-# Movie Recommendation System
-
-This project implements a content-based movie recommendation system using Python. The system recommends movies based on the similarity of their `overview` and `genre` descriptions.
+This project implements a content-based movie recommendation system using Python that suggests movies based on the similarity of their metadata, such as genre, keywords, and overview. When a user likes a particular movie, the system analyzes its content to recommend similar titles. For example, if a user enjoys The Godfather, which falls under the crime, thriller, and action genres, the system may suggest The Godfather Part II or Peaky Blinders due to their comparable themes and storytelling elements.
 
 ## Table of Contents
 
